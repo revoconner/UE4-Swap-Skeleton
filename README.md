@@ -1,4 +1,4 @@
-# UE4 Swap Skeletom
+# UE4 Swap Skeleto
 Merge skeleton of modular assets when importing into Maya to bypass multiple groups that are created with their own skeleton
 
 ### When importing multiple objects inside Maya after exporting from unreal engine, they come in their own groups. So even if the skeleton was shared among these skeletal meshes, inside of Maya they will have their own skeleton grouped together with the object.
